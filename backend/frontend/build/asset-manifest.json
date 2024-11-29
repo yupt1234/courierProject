@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a60eb3a.css",
+    "main.js": "/static/js/main.b5595426.js",
+    "static/js/787.d8789bd4.chunk.js": "/static/js/787.d8789bd4.chunk.js",
+    "static/media/CourierLogo.png": "/static/media/CourierLogo.a068fc6a889c2fb70394.png",
+    "index.html": "/index.html",
+    "main.7a60eb3a.css.map": "/static/css/main.7a60eb3a.css.map",
+    "main.b5595426.js.map": "/static/js/main.b5595426.js.map",
+    "787.d8789bd4.chunk.js.map": "/static/js/787.d8789bd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a60eb3a.css",
+    "static/js/main.b5595426.js"
+  ]
+}
